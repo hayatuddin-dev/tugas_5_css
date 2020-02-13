@@ -1,0 +1,30 @@
+.div_menu{
+  background-color: black;
+  max-width: 100%;
+}
+
+a{
+  text-transform: uppercase;
+  color: white;
+}
+
+p{
+  text-align: justify;
+}
+
+.slider-div {
+  margin-top: 5px;
+  max-width: 80%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.slider{
+  margin-right: 10px;
+  max-width: 60%;
+}
+.footer , .footer-alamat{
+  background-color:black;
+  color:white;
+  text-align: center;
+}
